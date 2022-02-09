@@ -1,0 +1,1 @@
+play(wold, lives)
